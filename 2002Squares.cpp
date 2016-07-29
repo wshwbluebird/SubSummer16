@@ -80,6 +80,7 @@ int main(){
                 //cout<<i<<endl;
         }
     }
+           
            printf("%d\n",ans/2 );
 
 

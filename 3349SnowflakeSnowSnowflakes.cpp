@@ -74,7 +74,7 @@ int main(){
     {
     	for (int j = 0; j < 6; ++j)
     	{
-    		// cin>>snow[i][j];
+    		//cin>>snow[i][j];
     		scanf("%d", &snow[i][j]);
     	}
     	
